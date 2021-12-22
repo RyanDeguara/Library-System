@@ -1,0 +1,155 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color:#6abadeba;  
+    font-family: 'Arial';  
+}  
+.form1{  
+	width: 25%;  
+	overflow: hidden;  
+	margin: auto;  
+	padding: 3%;  
+	background: #23463f;  
+	border-radius: 15px ;  
+	  
+}  
+
+.tables{    
+
+	margin-left: auto;
+	margin-right: auto;
+}  
+
+h2{  
+    text-align: center;  
+    color: #277582;  
+    padding: 20px;  
+}  
+p{  
+    color: #08ffd1;  
+    font-size: 17px;  
+}  
+#input{  
+    width: 100%;  
+    height: 5%;  
+    border: none;  
+    border-radius: 3px;   
+	margin-bottom: 2%;
+}  
+
+#submit{  
+    width: 30%;  
+    height: 3.2%;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: blue;  
+}  
+
+#res {
+
+    float: right;
+
+    background: rgb(183, 225, 233);
+
+    padding: 2%;
+
+    color: #fff;
+
+    border-radius: 10px;
+
+    margin-right: 10px;
+
+    border: none;
+
+    text-decoration: none;
+	
+}
+
+#res:hover{
+
+    opacity: .7;
+
+}
+
+
+#ul1 {
+	list-style-type: none;
+	margin: 0;
+	padding : 0;
+	overflow: hidden;
+	background-color:#23463f;
+}
+
+.li1{
+	float: left;
+}
+
+.li1 .a1 {
+	display: block;
+	color: #FEFEFE;
+	font-size: 1em;
+	text-align: center;
+	padding: 1.5em 2.5em;
+	text-decoration: none;
+}
+
+header, .li1 .a1:hover{
+	background-color: rgb(183, 225, 233);
+}
+
+
+footer {
+	position:absolute;
+	bottom:0;
+	background-color: #23463f;
+	text-align: center;
+	color: #FEFEFE;
+	display: inline-block;
+	width: 100vw;
+	left: 0%;
+
+}
+
+table {
+	overflow: hidden;  
+	margin: auto;  
+	background-color: #6FB57B;
+	font-family:Arial, Helvetica, sans-serif;
+	color:white;
+	border:white 1px solid;
+	margin-top: 5%;
+}
+
+table th {
+	width: 15vw;
+	height: 7vh;
+	background-color: #23463f;
+	border:white 1px solid;
+}
+
+table tr {
+	padding-left:20px;
+	border:white 1px solid;
+}
+
+table td {
+	border:white 1px solid;
+	padding:18px;
+	width: 15vw;
+}
+
+table td:hover{
+	border: #6abadeba 1px solid;
+}
+
+table th:hover{
+	border: #6abadeba 1px solid;
+}
+
+.hrefs {
+	color: #23463f;
+	padding-left: 50%;
+}
+
